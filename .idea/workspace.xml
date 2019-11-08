@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="556ff32c-eeee-4c4c-9422-4400453fa95a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SIyFnpVxUU8yGgqg8iGkcUJHC1" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../products/forgerock-commons/audit/forgerock-audit-handler-azure-sentinel" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="VMWareScratch" type="Java Scratch">
+      <option name="MAIN_CLASS_NAME" value="Scratch" />
+      <module name="VMWare" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/VMWareScratch.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="556ff32c-eeee-4c4c-9422-4400453fa95a" name="Default Changelist" comment="" />
+      <created>1565364557548</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565364557548</updated>
+      <workItem from="1565364558823" duration="29000" />
+      <workItem from="1569386213149" duration="592000" />
+      <workItem from="1569631501480" duration="362000" />
+      <workItem from="1570224020761" duration="18000" />
+      <workItem from="1571188494402" duration="3121000" />
+      <workItem from="1571214925858" duration="952000" />
+      <workItem from="1571264967015" duration="91000" />
+      <workItem from="1571265128807" duration="133000" />
+      <workItem from="1571265307386" duration="939000" />
+      <workItem from="1571437498124" duration="490000" />
+      <workItem from="1571950092283" duration="439000" />
+      <workItem from="1572451421680" duration="613000" />
+      <workItem from="1572462584508" duration="479000" />
+      <workItem from="1572910400046" duration="40000" />
+      <workItem from="1572910473210" duration="721000" />
+      <workItem from="1572963104857" duration="527000" />
+      <workItem from="1572997799530" duration="599000" />
+      <workItem from="1573137792057" duration="591000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
