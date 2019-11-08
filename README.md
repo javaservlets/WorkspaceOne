@@ -20,6 +20,13 @@ A simple authentication node for ForgeRock's [Identity Platform][forgerock_platf
 
 Copy the .jar file from the ../target directory into the ../web-container/webapps/openam/WEB-INF/lib directory where AM is deployed.  Restart the web container to pick up the new node.  The node will then appear in the authentication trees components palette.
 
+cUrl statement for testing:
+curl -X GET \
+  'https://as1506.awmdm.com/API/mdm/devices/compliance?searchBy=Udid&id=35e7605cb1a35f9f322812464527d358' \
+  -H 'Accept: application/json' \
+  -H 'Authorization: Basic ZW1haWxAamF2YXNlcnZsZXRzLm5ldDpQYXNzdzByZA==' \
+  -H 'aw-tenant-code: 0/Sdna8d8oLI9BZpPp6ZE1TGB4hkVKayc9cZVTznblw=' \
+  -H 'cache-control: no-cache'
 
 **USAGE HERE**
 
