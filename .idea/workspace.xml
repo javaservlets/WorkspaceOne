@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="556ff32c-eeee-4c4c-9422-4400453fa95a" name="Default Changelist" comment="" />
+    <list default="true" id="556ff32c-eeee-4c4c-9422-4400453fa95a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +29,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../products/forgerock-commons/audit/forgerock-audit-handler-azure-sentinel" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
   </component>
   <component name="RunDashboard">
@@ -79,6 +84,9 @@
       <workItem from="1572963104857" duration="527000" />
       <workItem from="1572997799530" duration="599000" />
       <workItem from="1573137792057" duration="591000" />
+      <workItem from="1573251279552" duration="13000" />
+      <workItem from="1575336053760" duration="618000" />
+      <workItem from="1575337895278" duration="539000" />
     </task>
     <servers />
   </component>
