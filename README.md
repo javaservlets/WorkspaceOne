@@ -1,7 +1,7 @@
 
 ![image alt text](./config/logo.png)
 
-# Device Posture - VMWare WorkstationONE
+# Device Posture - Airwatch - VMware WorkstationONE
 
 This ForgeRock Authentication Tree queries a Mobile Device Management (MDM) system to see whether or not the end-user's device satisfies a Compliance Policy (ie, checks it's "Device Posture") before it is allowed to access a protected resource.
 
